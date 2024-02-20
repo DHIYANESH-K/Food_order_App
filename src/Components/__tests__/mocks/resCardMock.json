@@ -1,0 +1,55 @@
+{
+    "id": "56505",
+    "name": "McDonald's",
+    "cloudinaryImageId": "03501c33ecb3a3105124441e541e6fe4",
+    "locality": "Prozone Mall",
+    "areaName": "Ganapathy",
+    "costForTwo": "₹400 for two",
+    "cuisines": [
+        "Burgers",
+        "Beverages",
+        "Cafe",
+        "Desserts"
+    ],
+    "avgRating": 4.3,
+    "parentId": "630",
+    "avgRatingString": "4.3",
+    "totalRatingsString": "5K+",
+    "sla": {
+        "deliveryTime": 47,
+        "lastMileTravel": 3,
+        "serviceability": "SERVICEABLE",
+        "slaString": "45-50 mins",
+        "lastMileTravelString": "3.0 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2024-02-20 21:45:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "imageBased": {},
+            "textBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹199"
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+}
